@@ -25,9 +25,9 @@ Where:
 # How to run (Commands)
 ## clone the repository
 
-**`git clone \repository HTTPS link\`** (replace "\repository HTTPS link\\" with repository HTTPS link)
+**`git clone <repository-HTTPS-URL>`** (replace "<repository-HTTPS-URL>" with the HTTPS URL of the repository you wish to clone)
 
-**`cd \repository name\`** (replace "\repository name\\" with name of the repository that you want to clone)
+**`cd <repository-name>`** (replace "<repository-name>" with the actual name of the repository that you cloned)
 
 ## run the bash script
 
