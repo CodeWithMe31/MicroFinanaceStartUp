@@ -24,12 +24,13 @@ Where:
 
 # How to run (Commands)
 ## clone the repository
-git clone <repository HTTPS link> (replace "<repository HTTPS link>" with repository HTTPS link)
-cd <repository name> (replace "<repository name>" with name of the repository that you want to clone)
+**`git clone **repository HTTPS link**`** (replace "**repository HTTPS link**" with repository HTTPS link)
+**`cd **repository name**`** (replace "**repository name**" with name of the repository that you want to clone)
 
 ## run the bash script
 
 This command will make the script executable:
+
 **`chmod +x simple-interest.sh`**
 
 If you want to run the bash script directly like this:
