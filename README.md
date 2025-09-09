@@ -1,6 +1,6 @@
 # MicroFinanaceStartUp
 
-# GitHub Final Project – Simple Interest Calculator
+## GitHub Final Project – Simple Interest Calculator
 
 This repository is a sample open source project created as part of a migration exercise from SVN to Git.
 
